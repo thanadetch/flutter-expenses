@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter-expenses
+![Simulator Screen Shot - iPhone 13 - 2023-01-12 at 11 38 03](https://user-images.githubusercontent.com/29934850/211977398-36c6a76f-11ff-449c-bd30-37eff484db2a.png)
