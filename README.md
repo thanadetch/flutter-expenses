@@ -1,4 +1,4 @@
-# flutter_course
+# flutter_expenses
 
 A new Flutter project.
 
